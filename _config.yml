@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: Mücahit İNEL
+description: 'Hey! I will publish my resume and some blogs anymore'
+url: 'https:minel.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Mücahit İNEL'
+  email: mucahit.in@gmail.com
+  twitter_username: mucahit_inel
+  facebook_username: mucahit.in
+  github_username:  minel
+  linkedin_username:  mucahit_inel
 
 defaults:
   -
