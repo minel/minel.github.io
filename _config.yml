@@ -1,7 +1,7 @@
 # Site settings
 title: Mücahit İNEL
 description: 'Hey! I will publish my resume and some blogs anymore'
-url: 'https:minel.github.io'
+url: 'https://minel.github.io'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
