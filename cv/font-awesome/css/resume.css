@@ -14,19 +14,38 @@ div.content {
 
 div.head {
     height: 380px;
-    background-image: url('../../images/crop.jpg');
+    /*background-image: url('../../images/crop.jpg');*/
+	background-color: rgb(37, 180, 250);
     background-position-y: 47%;
     background-size: cover;
-    filter: blur(1px);
+    /*filter: blur(1px);
 	-webkit-filter: blur(1px);
 	-moz-filter: blur(1px);
 	-o-filter: blur(1px);
-	-ms-filter: blur(1px);
+	-ms-filter: blur(1px);*/
 }
 
-div.banner-filter {
-	position: relative;
+div.head-box {
+	padding-top: 100px;
+	padding-left: 50px;
+	color: white;
+	letter-spacing: 3px;
+}
+
+div.head-box h1 {
+	font-size: 3em;
+	font-weight: normal;
+}
+
+div.head-box p {
+	font-size: 1.5em;
+}
+
+/*div.banner-filter {
+	position: absolute;
 	height: 380px;
+	width: 960px;
     background-color: rgb(37, 180, 250);
     opacity: 0.6;
-}
+}*/
+
