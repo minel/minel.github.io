@@ -68,6 +68,15 @@ div.properties span{
     margin-bottom: 20px;
 }
 
+div.properties img{
+    float: left;
+    margin-top: -8px;
+}
+
+span.property span{
+    width: 40px;
+}
+
 b{
     font-weight: bold;
 }
